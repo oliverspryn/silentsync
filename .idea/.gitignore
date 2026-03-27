@@ -1,0 +1,8 @@
+/*.xml
+/shelf/
+
+!/compiler.xml
+!/detekt.xml
+!/externalDependencies.xml
+!/ktlint-plugin.xml
+!/vcs.xml
